@@ -13,5 +13,7 @@ Real-Time Insights: Enabled stakeholders to make data-driven decisions with upda
 
 **Technologies Used:-**
 Power BI: Dashboard development, DAX, Power Query
+
 Data Sources: SQL Server, Excel, and APIs
+
 Other Tools: Power BI Service for publishing and collaboration
